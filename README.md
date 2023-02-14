@@ -23,7 +23,7 @@ Here's the screen shot of the wepage when opened -
 ![Image is a screenshot of password generator](./assets/images/screenshot.PNG)
 
 ## Deployed Application
-Here's the link to the deployed application - 
+Here's the link to the deployed application - https://kritishrestha.github.io/Password-generator/
 
 ## License
 MIT
